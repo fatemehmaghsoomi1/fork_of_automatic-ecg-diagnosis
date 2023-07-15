@@ -52,4 +52,4 @@ if __name__ == "__main__":
                         validation_data=valid_seq,
                         verbose=1)
     # Save final result
-    model.save("./final_model.hdf5")
+    model.save("./final_model21.hdf5")
